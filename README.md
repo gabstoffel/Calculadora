@@ -1,5 +1,4 @@
-# Calculadora
-
+# Calculadora JavaScript
 <br>
 <br>
 <div align="center">
@@ -18,7 +17,7 @@
 :clipboard: Sobre o Projeto
 <br>
 <br>
-<p align="justify"> Calculadora desenvolvida como exercício das habilidades de Javascript, CSS e HTML </p>
+<p align="justify"> Projeto de uma calculadora JavaScript desenvolvido com o intuito de praticar as habilidades aprendidas de JavaScript, CSS e HTML</p>
 
 
 <div align="center">
