@@ -1,23 +1,18 @@
 # Calculadora JavaScript
-
-
-
+<br>
 <div align="center">
    Projeto desenvolvido no curso do ProgBR
 </div>
-
-
-
-
-
+<br>
 <p align="center">
   <a href="#clipboard-Sobre-o-Projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-Tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#closed-book-Licença">Licença</a>
 </p>
+<br>
 :clipboard: Sobre o Projeto
-
-
+<br>
+<br>
 <p align="justify"> Projeto de uma calculadora JavaScript desenvolvido com o intuito de praticar as habilidades aprendidas de JavaScript, CSS e HTML</p>
 
 
