@@ -1,7 +1,7 @@
-# Calculadora JavaScript
+# Calculadora JavaScript:
 <br>
 <div align="center">
-   Projeto desenvolvido no curso do ProgBR
+   Projeto desenvolvido no curso do ProgBR.
 </div>
 <br>
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="#closed-book-Licença">Licença</a>
 </p>
 <br>
-:clipboard: Sobre o Projeto
+:clipboard: Sobre o Projeto:
 <br>
 <br>
 <p align="justify"> Projeto de uma calculadora JavaScript desenvolvido com o intuito de praticar as habilidades aprendidas de JavaScript, CSS e HTML.</p>
@@ -21,7 +21,7 @@
 </div>
 
 
-## :computer: Tecnologias utilizadas
+## :computer: Tecnologias utilizadas:
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
